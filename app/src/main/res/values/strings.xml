@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2ViewsApp</string>
+    <string name="second_activity_button_text">Second Activity</string>
+    <string name="phone_button_text">Open Contacts</string>
+</resources>
